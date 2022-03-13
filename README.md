@@ -1,4 +1,5 @@
 - 👋 Hi, ich bin Tim
 - 👀 Ich interessiere mich für Hardware und Software seit über 7 Jahren.
 - 🌱 Ich bin schlau
-- 😁 Timsolol is a ✨ Youtuber ✨ with Minecraft Content and more...
+- 😁 YouTube: Timsolol
+- 👑 Mein Minecraft Java Server: mc-gamescloud.de 
