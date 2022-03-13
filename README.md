@@ -1,5 +1,5 @@
 - 👋 Hi, ich bin Tim
-- 👀 Ich interessiere mich für Hardware und Software seit über 7 Jahren.
+- 👀 Ich interessiere mich für Hardware und Software seit über 9 Jahren.
 - 🌱 Ich bin schlau
 - 😁 YouTube: Timsolol
 - 👑 Mein Minecraft Java Server: mc-gamescloud.de 
