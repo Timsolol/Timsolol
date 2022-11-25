@@ -2,4 +2,4 @@
 - 👀 Ich interessiere mich für Hardware und Software seit über 9 Jahren.
 - 🌱 Ich bin schlau
 - 😁 YouTube: Timsolol
-- 👑 Mein Minecraft Java Server: mc-gamescloud.de 
+- Programmiersprachen: Java, Javascript, Phyton, HTML
