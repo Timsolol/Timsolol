@@ -1,5 +1,5 @@
-- 👋 Hi, ich bin Tim
-- 👀 Ich interessiere mich für Hardware und Software seit über 9 Jahren.
-- 🌱 Ich bin schlau
-- 😁 YouTube: Timsolol
-- Programmiersprachen: Java, Javascript, Phyton, HTML
+- 👋 Hey, i am Tim.
+- 👀 I have been interested in hardware and software for over 9 years.
+- 🌱 I'm Smart.
+- 😁 My YouTube Channel: Timsolol
+- ⌨ programming languages: Java, Javascript, Phyton, HTML
