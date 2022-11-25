@@ -2,4 +2,4 @@
 - 👀 I have been interested in hardware and software for over 9 years.
 - 🌱 I'm Smart.
 - 😁 My YouTube Channel: Timsolol
-- ⌨ programming languages: Java, Javascript, Phyton, HTML
+- ⌨ programming languages: Java, Javascript, Phyton
