@@ -7,4 +7,4 @@
 
 
 
-https://lanyard-profile-readme.vercel.app/api/786948447415566336?hideStatus=true
+[![Discord Presence](https://lanyard.cnrad.dev/api/786948447415566336)](https://discord.com/users/786948447415566336)
