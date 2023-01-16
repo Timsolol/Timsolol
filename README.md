@@ -1,4 +1,4 @@
-- 👋 Hey, i am Tim.
+- 👋 Hey, i'm Tim.
 - 👀 I have been interested in hardware and software for over 9 years.
 - 🌱 I'm Smart.
 - 😁 My YouTube Channel: Timsolol
