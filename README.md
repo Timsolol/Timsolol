@@ -1,5 +1,5 @@
 - 👋 Hey, i'm Tim.
-- 👀 I have been interested in hardware and software for 10 years.
+- 👀 I have been interested in hardware and software since 10 years.
 - 😁 My YouTube Channel: Timsolol
 - ⌨ Programming Languages: Java, Javascript, Phyton
 
