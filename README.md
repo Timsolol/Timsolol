@@ -16,8 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timsolol&show_icons=true&theme=dark&locale=en" alt="timsolol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timsolol&" alt="timsolol" /></p>
-
-
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/786948447415566336)](https://discord.com/users/786948447415566336)
