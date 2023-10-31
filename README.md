@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A Web Developer from Germany</h3>
 
+[![wakatime](https://wakatime.com/badge/user/018b485f-ef24-4f28-8c24-9e3ae97cea60.svg)](https://wakatime.com/@018b485f-ef24-4f28-8c24-9e3ae97cea60)
 
 <h3 align="left">Social Media</h3>
 <p align="left">
